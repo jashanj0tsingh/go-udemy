@@ -1,0 +1,18 @@
+.DS_Store
+.swp
+# IntelliJ GoLand
+._*
+.idea/
+*.iml
+*.ipr
+*.iws
+*.out
+# VSCode
+.vscode
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+# vendor
